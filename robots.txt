@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kfocho.csgad.com/iio/sitemap.xml.gz
